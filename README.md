@@ -1,6 +1,6 @@
 # 🚀 Interview Question Generator
 
-    An advanced RAG (Retrieval-Augmented Generation) powered application that generates high-quality interview questions and answers from any technical document (PDF).
+#### An advanced RAG (Retrieval-Augmented Generation) powered application that generates high-quality interview questions and answers from any technical document (PDF).
 
 ### 📌 Overview
 
