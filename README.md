@@ -97,11 +97,10 @@ Interview_question_generator/
 │
 ├── static/
 │   ├── style.css
-│   └── js/
-│       └── main.js
+│   └── main.js
 │
 ├── research/
-│   └── trials.ipynb                   # Notebook experiments
+│   └── exprements.ipynb                   # Notebook experiments
 │
 ├── app.py
 ├── requirements.txt
